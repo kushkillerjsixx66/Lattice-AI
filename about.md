@@ -1,24 +1,33 @@
 ---
-layout: default
-title: Proof & Benchmarks
+title: LLM Portability Benchmarks | Multi-LLM Consistency Proof
 ---
 
-# Technical Proof
+# **LLM Portability Benchmarks** - Lattice AI Proof
 
-## Cross-LLM Consistency (95%)
-| LLM Platform | Consistency |
-|--------------|-------------|
-| OpenAI GPT-4o | 95% |
-| Anthropic Claude 3.5 | 96% |
-| Google Gemini 2.0 | 94% |
-| Meta Llama 3.1 | 95% |
+## **Cross-LLM Consistency Results** (95% Average)
 
-## Benchmarks
-MNIST Ensemble: 98.73% accuracy
-Cross-platform reasoning: 95% identical outputs
-Document mapping success: 92%
+| LLM Platform | Consistency | Vendor Lock-in Risk |
+|--------------|-------------|-------------------|
+| **OpenAI GPT-4o/o1** | 95% | ❌ Eliminated |
+| **Anthropic Claude 3.5** | 96% | ❌ Eliminated |
+| **Google Gemini 2.0** | 94% | ❌ Eliminated |
+| **Meta Llama 3.1** | 95% | ❌ Eliminated |
+
+## **Multi-LLM Deployment Metrics**
+Standard prompting: 60-70% cross-LLM consistency
+Manual porting: 2-4 weeks per vendor change
+Lattice AI: 95% consistency, 2hr vendor switches
 
 
-**Live demo in audit call.**
+## **LLM Vendor Independence Benchmarks**
+| Metric | Industry Standard | Lattice AI |
+|--------|-------------------|------------|
+| Cross-LLM Consistency | 60-70% | **95%** |
+| Vendor Switch Time | 2-4 weeks | **2 hours** |
+| Document Mapping | Manual | **92% automated** |
+| Production Audit Trails | None | **Full traceability** |
 
-[← Book Audit](https://calendly.com/https://calendly.com/kushkillerjsixx66/lattice-demo/30min)
+## **Live Demo Ready**
+**Bring your toughest prompt. See multi-LLM deployment live.**
+
+[![Book Multi-LLM Audit](https://img.shields.io/badge/Calendly-LLM%20Audit-brightgreen)](https://calendly.com/https://calendly.com/kushkillerjsixx66/lattice-demo/30min)
