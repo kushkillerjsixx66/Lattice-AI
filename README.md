@@ -37,7 +37,7 @@ Llama licensing shifts → total redeployment
 ### **Book Free LLM Portability Audit**
 **30min live demo: Your toughest prompt → 3 LLMs simultaneously**
 
-[![Book LLM Vendor Lock-in Audit](https://img.shields.io/badge/Calendly-LLM%20Audit-brightgreen)](https://calendly.com/kushkillerjsixx66/lattice-audit-30min)
+[![Book LLM Vendor Lock-in Audit](https://img.shields.io/badge/Calendly-LLM%20Audit-brightgreen)](https://calendly.com/kushkillerjsixx66)
 
 ---
 
