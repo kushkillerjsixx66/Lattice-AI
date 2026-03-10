@@ -30,7 +30,7 @@ Gemini endpoint changes → Rewrite everything
 ## Book Free 30min Audit
 **Test your toughest prompt live across 3 LLMs.**
 
-[![Book Now](https://img.shields.io/badge/Calendly-Book%20Audit-brightgreen)](https://calendly.com/YOURCALENDLY/30min)
+[![Book Now](https://img.shields.io/badge/Calendly-Book%20Audit-brightgreen)](https://calendly.com/https://calendly.com/kushkillerjsixx66/lattice-demo/30min)
 
 ---
 <div style="text-align:center; color:#666; font-size:14px;">
