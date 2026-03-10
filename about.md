@@ -30,4 +30,4 @@ Lattice AI: 95% consistency, 2hr vendor switches
 ## **Live Demo Ready**
 **Bring your toughest prompt. See multi-LLM deployment live.**
 
-[![Book Multi-LLM Audit](https://img.shields.io/badge/Calendly-LLM%20Audit-brightgreen)](https://calendly.com/https://calendly.com/kushkillerjsixx66/lattice-demo/30min)
+[![Book Multi-LLM Audit](https://img.shields.io/badge/Calendly-LLM%20Audit-brightgreen)](https://calendly.com/kushkillerjsixx66/lattice-demo/30min)
