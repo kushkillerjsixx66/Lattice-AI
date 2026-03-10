@@ -28,7 +28,7 @@
 Lattice AI = 95% consistent reasoning across ChatGPT/Claude/Gemini.
 
 Free 30min demo → test YOUR prompt live:
-https://yourusername.github.io/lattice-agency"
+https://kushkillerjsixx66.github.io/lattice-agency"
 
 **DM Template B**:
 "Saw you're battling multi-LLM deployment. 
@@ -36,4 +36,4 @@ https://yourusername.github.io/lattice-agency"
 Built vendor-agnostic framework - same reasoning runs ChatGPT→Claude→Gemini.
 
 Free audit of your toughest prompt?
-https://yourusername.github.io/lattice-agency"
+https://kushkillerjsixx66.github.io/lattice-agency"
